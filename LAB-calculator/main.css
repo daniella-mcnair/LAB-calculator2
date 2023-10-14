@@ -1,0 +1,64 @@
+.box {
+display: flex;
+flex-wrap: wrap;
+width: 100%;
+
+
+}
+
+.boxStyle 
+{background:#d8d9db;
+  display:inline-block;
+  padding:1px 5px;
+}
+
+.boxStyleO {
+background-color: red;
+}
+
+.boxStyleB {
+  background:black;
+  color:white;
+  display:inline-block;
+  padding:1px 5px;
+  width: 275px;
+  text-align: right;
+
+}
+
+.row {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+}
+
+.button1 {
+  background-color: black;
+  color: white;
+  width: 150px;
+  text-align: right;
+}
+
+.button2 {
+  background-color: #d8d9d;
+  color: black;
+  width: 50px;
+}
+
+.button2-2 {
+  background-color: #d8d9d;
+  color: black;
+  width: 33px;
+}
+
+.button2-3 {
+  background-color: #d8d9d;
+  color: black;
+  width: 100px;
+}
+
+.button0 {
+background-color: peru;
+width: 50px;;
+}
